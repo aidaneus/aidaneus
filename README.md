@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='center' src='https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif' width='200"'> </br>
+<img align='center' src='https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif' width='200"'> </br>
 <img src="https://img.shields.io/badge/-C-649bd2?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599d?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
 <img src="https://img.shields.io/badge/-DOCKER-119fdb?style=for-the-badge&logo=DOCKER&logoColor=white"/>
