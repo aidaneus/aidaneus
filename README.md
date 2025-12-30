@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <img align='center' src='https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif' width='200"'> </br>
-<img src="https://img.shields.io/badge/-JAVA-ED8B00?style=for-the-badge&logo=JAVA&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/-JAVA-ED8B00?style=for-the-badge&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/-C-649bd2?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599d?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
 <img src="https://img.shields.io/badge/-DOCKER-119fdb?style=for-the-badge&logo=DOCKER&logoColor=white"/> 
